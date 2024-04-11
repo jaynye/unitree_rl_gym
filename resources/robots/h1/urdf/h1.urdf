@@ -45,7 +45,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -85,7 +85,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <!-- [CAUTION] use cylinder for hip_yaw_link -->
@@ -143,7 +143,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -201,7 +201,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -259,7 +259,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -317,7 +317,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -375,7 +375,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <!-- [CAUTION] use cylinder for hip_yaw_link -->
@@ -433,7 +433,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -491,7 +491,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -549,7 +549,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -607,7 +607,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -665,7 +665,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -723,7 +723,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -781,7 +781,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -839,7 +839,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -897,7 +897,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -955,7 +955,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -1013,7 +1013,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -1071,7 +1071,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
@@ -1129,7 +1129,7 @@ Stephen Brawner (brawner@gmail.com)
       <material
         name="">
         <color
-          rgba="0.1 0.1 0.1 1" />
+          rgba="1.0 1.0 1.0 1" />
       </material>
     </visual>
     <collision>
