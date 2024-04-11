@@ -173,6 +173,11 @@ class LeggedRobotCfg(BaseConfig):
 class LeggedRobotCfgPPO(BaseConfig):
     seed = 1
     runner_class_name = 'OnPolicyRunner'
+    
+    num_steps_per_env = 24 # per iteration
+    save_interval = 50 # check for potential saves every this many iterations
+    empirical_normalization = True # not sure what this should be?
+
     class policy:
         class_name = 'ActorCritic'
         init_noise_std = 1.0
