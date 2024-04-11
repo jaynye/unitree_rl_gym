@@ -174,6 +174,7 @@ class LeggedRobotCfgPPO(BaseConfig):
     seed = 1
     runner_class_name = 'OnPolicyRunner'
     class policy:
+        class_name = 'ActorCritic'
         init_noise_std = 1.0
         actor_hidden_dims = [512, 256, 128]
         critic_hidden_dims = [512, 256, 128]
@@ -185,6 +186,7 @@ class LeggedRobotCfgPPO(BaseConfig):
         
     class algorithm:
         # training params
+        class_name = 'PPO'
         value_loss_coef = 1.0
         use_clipped_value_loss = True
         clip_param = 0.2
