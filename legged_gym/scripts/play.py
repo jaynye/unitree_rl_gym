@@ -25,14 +25,6 @@ def play(args):
     env_cfg.commands.ranges.lin_vel_y = [0.0, 0.0]
     env_cfg.commands.ranges.heading = [0.0, 0.0]
 
-    env_cfg.terrain.terrain_proportions = [
-        float(args.terrain == 'smooth-slope'),
-        float(args.terrain == 'rough-slope'),
-        float(args.terrain == 'stairs-up'),
-        float(args.terrain == 'stairs-down'),
-        float(args.terrain == 'discrete-obs')
-    ]
-
     if args.terrain == 'flat':
         env_cfg.terrain.mesh_type = 'flat'
         env_cfg.viewer.pos = [20., 25., 3.]
